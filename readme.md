@@ -123,7 +123,7 @@ Se desejar, replique os painéis conectando diretamente as tabelas/consultas do 
 Substitua os placeholders abaixo pelos dados do time (nome completo, LinkedIn e GitHub):
 
 - Luana Silva — LinkedIn: https://www.linkedin.com/in/luanasilvadev/ | GitHub: https://github.com/LuanaTechVet
-- Nome Sobrenome — LinkedIn: https://www.linkedin.com/in/SEU_PERFIL | GitHub: https://github.com/SEU_USUARIO
+- Sophia de Jong — LinkedIn: https://www.linkedin.com/in/sophiadejong/ | GitHub: https://github.com/sophtmotion
 - Nome Sobrenome — LinkedIn: https://www.linkedin.com/in/SEU_PERFIL | GitHub: https://github.com/SEU_USUARIO
 - Nome Sobrenome — LinkedIn: https://www.linkedin.com/in/SEU_PERFIL | GitHub: https://github.com/SEU_USUARIO
 
